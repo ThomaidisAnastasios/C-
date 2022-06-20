@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1493129181 source:d:\users\pokedtodeath\documents\giannis\ÐáíåðéóôÞìéï\2017\c++ (mpimph)\ergastirio 6\ergastirio 6 new\book.cpp
+	<iostream>
+	"book.h"
+
+1493129251 d:\users\pokedtodeath\documents\giannis\ÐáíåðéóôÞìéï\2017\c++ (mpimph)\ergastirio 6\ergastirio 6 new\book.h
+	<string>
+
+1493129182 source:c:\users\jarvis\documents\ÐáíåðçóôÞìéï\2\c++\lab6\erg6 lysh\book.cpp
+	<iostream>
+	"book.h"
+
+1493129252 c:\users\jarvis\documents\ÐáíåðçóôÞìéï\2\c++\lab6\erg6 lysh\book.h
+	<string>
+
+1493129158 source:c:\users\jarvis\documents\ÐáíåðçóôÞìéï\2\c++\lab6\erg6 lysh\borrowed_book.cpp
+	<iostream>
+	<string>
+	"borrowed_book.h"
+
+1493129252 c:\users\jarvis\documents\ÐáíåðçóôÞìéï\2\c++\lab6\erg6 lysh\borrowed_book.h
+	<string>
+	"book.h"
+
+1493129348 source:c:\users\jarvis\documents\ÐáíåðçóôÞìéï\2\c++\lab6\erg6 lysh\main.cpp
+	<cstdlib>
+	<iostream>
+	"borrowed_book.h"
+

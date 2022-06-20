@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1493736126 source:d:\users\pokedtodeath\documents\giannis\ÐáíåðéóôÞìéï\2017\c++ (mpimph)\ergastirio 7 new\erg7\confirmed_reservation.cpp
+	<iostream>
+	"confirmed_reservation.h"
+
+1493736126 d:\users\pokedtodeath\documents\giannis\ÐáíåðéóôÞìéï\2017\c++ (mpimph)\ergastirio 7 new\erg7\confirmed_reservation.h
+	<string>
+	"reservation.h"
+
+1493736678 d:\users\pokedtodeath\documents\giannis\ÐáíåðéóôÞìéï\2017\c++ (mpimph)\ergastirio 7 new\erg7\reservation.h
+	<string>
+
+1493736222 source:d:\users\pokedtodeath\documents\giannis\ÐáíåðéóôÞìéï\2017\c++ (mpimph)\ergastirio 7 new\erg7\main.cpp
+	<cstdlib>
+	<iostream>
+	"confirmed_reservation.h"
+
+1493736412 source:d:\users\pokedtodeath\documents\giannis\ÐáíåðéóôÞìéï\2017\c++ (mpimph)\ergastirio 7 new\erg7\reservation.cpp
+	<iostream>
+	"reservation.h"
+
+1493736224 source:c:\users\jarvis\documents\ÐáíåðçóôÞìéï\2\c++\lab7\erg7 lysh\main.cpp
+	<cstdlib>
+	<iostream>
+	"confirmed_reservation.h"
+
+1493736128 c:\users\jarvis\documents\ÐáíåðçóôÞìéï\2\c++\lab7\erg7 lysh\confirmed_reservation.h
+	<string>
+	"reservation.h"
+
+1493736680 c:\users\jarvis\documents\ÐáíåðçóôÞìéï\2\c++\lab7\erg7 lysh\reservation.h
+	<string>
+
