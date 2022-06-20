@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1488895640 source:c:\users\ΤΑΣΟΣ\documents\Πανεπηστήμιο\2\c++\lab2\erg2 lysh\main.cpp
+	<iostream>
+	<cstdlib>
+	"vector.h"
+	<cmath>
+
+1488893994 c:\users\ΤΑΣΟΣ\documents\Πανεπηστήμιο\2\c++\lab2\erg2 lysh\vector.h
+
+1488895640 source:c:\users\ΤΑΣΟΣ\documents\Πανεπηστήμιο\2\c++\lab2\erg2 lysh\vector.cpp
+	<iostream>
+	"vector.h"
+	<cmath>
+
+1488895640 source:c:\users\jarvis\documents\Πανεπηστήμιο\2\c++\lab2\erg2 lysh\main.cpp
+	<iostream>
+	<cstdlib>
+	"vector.h"
+	<cmath>
+
+1504426791 c:\users\jarvis\documents\Πανεπηστήμιο\2\c++\lab2\erg2 lysh\vector.h
+
+1488895640 source:c:\users\jarvis\documents\Πανεπηστήμιο\2\c++\lab2\erg2 lysh\vector.cpp
+	<iostream>
+	"vector.h"
+	<cmath>
+

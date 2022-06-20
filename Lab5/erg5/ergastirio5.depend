@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490713350 source:d:\users\pokedtodeath\documents\giannis\Πανεπιστήμιο\2017\c++ (mpimph)\ergastirio 5\ergastirio5\date.cpp
+	<iostream>
+	"date.h"
+	<string>
+
+1490714030 d:\users\pokedtodeath\documents\giannis\Πανεπιστήμιο\2017\c++ (mpimph)\ergastirio 5\ergastirio5\date.h
+	<iostream>
+
+1490713900 source:d:\users\pokedtodeath\documents\giannis\Πανεπιστήμιο\2017\c++ (mpimph)\ergastirio 5\ergastirio5\main.cpp
+	<iostream>
+	"date.h"
+	<cstdlib>
+

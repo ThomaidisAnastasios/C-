@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1490108611 source:d:\users\pokedtodeath\documents\giannis\Πανεπιστήμιο\2017\c++ (mpimph)\ergastirio 4\ergastirio4\main.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1490109111 d:\users\pokedtodeath\documents\giannis\Πανεπιστήμιο\2017\c++ (mpimph)\ergastirio 4\ergastirio4\student.h
+	<string>
+
+1490109705 source:d:\users\pokedtodeath\documents\giannis\Πανεπιστήμιο\2017\c++ (mpimph)\ergastirio 4\ergastirio4\student.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1490108612 source:c:\users\ΤΑΣΟΣ\documents\Πανεπηστήμιο\2\c++\lab4\erg4 lysh\main.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1490109112 c:\users\ΤΑΣΟΣ\documents\Πανεπηστήμιο\2\c++\lab4\erg4 lysh\student.h
+	<string>
+
+1490109706 source:c:\users\ΤΑΣΟΣ\documents\Πανεπηστήμιο\2\c++\lab4\erg4 lysh\student.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1490108612 source:c:\users\jarvis\documents\Πανεπηστήμιο\2\c++\lab4\erg4 lysh\main.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1497882757 c:\users\jarvis\documents\Πανεπηστήμιο\2\c++\lab4\erg4 lysh\student.h
+	<string>
+
+1490109706 source:c:\users\jarvis\documents\Πανεπηστήμιο\2\c++\lab4\erg4 lysh\student.cpp
+	<iostream>
+	<string>
+	"student.h"
+
